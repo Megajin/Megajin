@@ -1,3 +1,28 @@
+<div>
+  <style>
+  .flex-container {
+   display: flex;
+  flex-direction: row;
+}
+
+.flex-item-full {
+  flex: 100%;
+}
+
+.flex-item-half {
+  flex: 50%;
+}
+
+@media (max-width: 800px) {
+  .flex-item-half {
+    flex: 100%;
+  }
+}
+  </style>
+</div>
+
+
+
 <link rel="stylesheet" type="text/css" href="style.css" />
 <h3 align="center"> Megajin - the royal vanguard of all dreamers!</h3>
 
