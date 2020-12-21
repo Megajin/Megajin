@@ -7,7 +7,7 @@
 </div>
                                                                                                                               
                                                                                                                             
-<div align="center width="86%">       
+<div width="86%">       
   <a href="https://github.com/anuraghazra/github-readme-stats#readme">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=megajin&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=dark"/>
   </a> 
