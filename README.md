@@ -1,4 +1,4 @@
- <link rel = "stylesheet" type = "text/css" href = "style.css" />
+<link rel="stylesheet" type="text/css" href="style.css" />
 <h3 align="center"> Megajin - the royal vanguard of all dreamers!</h3>
 
 <div class="flex-container">
